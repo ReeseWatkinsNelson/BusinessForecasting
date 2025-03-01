@@ -14,4 +14,12 @@ is crucial to maximizing productive information. Tests such as Autocorrelation,
 Dummy Variable Analysis, Time-Series Analysis, and Seasonal-Index Analysis are 
 dependent on how the data is structured. 
 
+The provided directories are composed of two things: 
+
+  (1) Excel Assignments - Contains a pdf of the word problems and my responses
+                          along with any supporting material used to help answer
+                          the question.
+  (2) Excel Files       - Contains the raw file content associated with these
+                          problems.
+
 

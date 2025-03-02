@@ -1,8 +1,8 @@
 # BusinessForecasting
 
 This repository shows Forecasting Techniques and Statistical Methods 
-used in Excel to solve problems for my midterm/final assignments in my 
-Business Forecasting class. 
+used in Excel to solve problems for my midterm/final assignments in
+Business Forecasting.
 
 Learning how to forecast is critical to anticipate future data by using 
 prior historical data. This is beneficial for a number of key business indicators
